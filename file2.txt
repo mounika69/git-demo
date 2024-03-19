@@ -1,3 +1,5 @@
 This is file2.txt
 
 Take input from user
+
+Please ensure that you take input in correct format
