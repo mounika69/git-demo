@@ -5,3 +5,5 @@ Take input from user.
 Print the input
 
 Process the input
+
+Print to the console
